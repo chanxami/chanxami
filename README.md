@@ -1,5 +1,5 @@
-# 🚀 **print('hello chanxamiworld')**  
-"코드는 예술이다.🎨" 
+# 🚀 **'hello chanxamiworld'**  
+**"코드는 예술이다.🎨"** 
 
 안녕하세요! 👋  
 개발과 기술을 사랑하는 **chanxami**입니다.  
