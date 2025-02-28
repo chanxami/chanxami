@@ -1,23 +1,23 @@
-# 🚀 **HELLO CHANXAMIWORLD!**  
+# 🚀 **print('hello chanxamiworld')**  
 "코드는 예술이다.🎨" 
 
 안녕하세요! 👋  
 개발과 기술을 사랑하는 **chanxami**입니다.  
 새로운 것을 배우고, 문제를 해결하는 과정을 즐깁니다.
 
-###💡 **About Me**  
+### 💡 **About Me**  
 🎯 **현재 관심 있는 분야**  
 🤖 AI & 딥러닝  
 🌐 Frontend & Backend (FE & BE)  
 📊 데이터 분석  
 
-###🛠 **주요 기술 스택**  
+### 🛠 **주요 기술 스택**  
 🐍 Python  
 🗄️ MySQL  
 ⚛️ React  
 ☕ Spring Boot  
 
-###📚 **현재 배우고 있는 것**  
+### 📚 **현재 배우고 있는 것**  
 💻 컴퓨터 비전 공부 중  
 🌱 Spring 공부 중 (심심할 때마다 🤣)
 
