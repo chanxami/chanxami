@@ -18,8 +18,8 @@
 ### 🛠 **주요 기술 스택**  
 🐍 Python  
 🗄️ MySQL  
-⚛️ React  
-☕ Spring Boot  
+⚛️ React (찍먹)
+☕ Spring Boot  (찍먹)
 
 ---
 
