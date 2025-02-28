@@ -5,17 +5,23 @@
 개발과 기술을 사랑하는 **chanxami**입니다.  
 새로운 것을 배우고, 문제를 해결하는 과정을 즐깁니다.
 
+---
+
 ### 💡 **About Me**  
 🎯 **현재 관심 있는 분야**  
 🤖 AI & 딥러닝  
 🌐 Frontend & Backend (FE & BE)  
 📊 데이터 분석  
 
+---
+
 ### 🛠 **주요 기술 스택**  
 🐍 Python  
 🗄️ MySQL  
 ⚛️ React  
 ☕ Spring Boot  
+
+---
 
 ### 📚 **현재 배우고 있는 것**  
 💻 컴퓨터 비전 공부 중  
@@ -43,11 +49,4 @@
 
 ---
 
-## 📬 **Contact Me**  
-📧 Email: [chanxami@example.com](mailto:chanxami@example.com)  
-🌐 Website: [www.chanxami.dev](https://www.chanxami.dev)
 
----
-
-🎯 **Let's Build Something Great!**  
-Feel free to explore my repositories, collaborate on exciting projects, or reach out to me for new opportunities. Let's code together! 🚀
