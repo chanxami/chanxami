@@ -8,10 +8,10 @@
 ---
 
 ### 💡 **About Me**  
-🎯 **현재 관심 있는 분야**  
-🤖 AI & 딥러닝  
-🌐 Frontend & Backend (FE & BE)  
-📊 데이터 분석  
+>🎯 **현재 관심 있는 분야**  
+>🤖 AI & 딥러닝  
+>🌐 Frontend & Backend (FE & BE)  
+>📊 데이터 분석  
 
 ---
 
