@@ -37,11 +37,4 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=chanxami&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanxami&layout=compact&theme=dracula&langs_count=8" height="150" alt="Top Languages">  
-</p>
-
----
 
